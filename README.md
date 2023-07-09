@@ -7,22 +7,80 @@
 
 Я начинающий data scientist. Здесь я представила мои некоторые проекты.
 
-Основной опыт у меня - учебные проекты по специальности data scientist и проекты с платформы Kagle. 
+Основной опыт у меня - учебные проекты по специальности data science и проекты с платформы Kagle. 
 
 
----
+__________________________________________________________________________________________________________________________
 
-<p align="center"> Проекты Data Science </p align="center">
 
-| **Проект** | **Тип исследования** | **Статус** |
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  
+   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  
+  
+  
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/miscellaneous libraries-blue">
+</p>
+
+
+
+<p align="center">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
+</p>
+
+__________________________________________________________________________________________________________________________
+
+
+<p align="center"> Проекты Data Science. Классический ML, Deep learning  </p align="center">
+
+| **Проект** | **Тип исследования** | **Стек** |**Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Компьютерное зрение. Регрессия](https://github.com/EKozh/Computer_vision)|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Завершен|
-| [02. Рекомендация тарифов](https://github.com/EKozh/stat_analis) | В нашем распоряжении данные о поведении клиентов, которые уже перешли на эти тарифы. Нужно построить модель для задачи классификации, которая выберет подходящий тариф.Необходимо построить модель с максимально большим значением accuracy |Завершен|
-| [03. Прогнозирование оттока клиентов банка](https://github.com/EKozh/Clients_Bank_ML)|Необходимо спрогонозировать, уйдет ли клиент в ближайшее время или нет.| Завершен|
-| [04. Прогнозирование прибыли от нефтяных скважин](https://github.com/EKozh/Oil_well_location)| Моделирование прогнозов (регрессия)| Завершен|
-| [05. Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/EKozh/Gold_predict) | Машинное обучение, предобработка данных, визуализация, проверка гипотез. Построение модели для промышленной компании|Завершен|
-| [06. Защита персональных данных клиентов страховой компании](https://github.com/EKozh/Personal_data_protect)| Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии.| Завершен|
-| [07. Предсказания цены автомобиля](https://github.com/EKozh/Auto_price_prediction)| Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля| Завершен|
-| [08. Прогнозирование количества заказов такси](https://github.com/EKozh/Taxi_prediction)| Работа с временными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| Завершен|
+| [Промышленная обработка стали]() | Построение модели для предсказания температуры стали | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM |Завершен|
+| [Компьютерное зрение. Регрессия](https://github.com/EKozh/Computer_vision)|Построение модели, которая по фотографии определит приблизительный возраст человека |Python, Keras |Завершен|
+| [Классификация комментариев](https://github.com/EKozh/Toxic_comments) | Применение обработки естественного языка для определения токсичности комментариев. | BERT, Pandas, Python, nltk, tf-idf |Завершен|
+| [Рекомендация тарифов](https://github.com/EKozh/stat_analis) | Построение модели для задачи классификации с максимально большим значением accuracy, которая выберет подходящий тариф |Matplotlib, Pandas, Python, Sklearn |Завершен|
+| [Прогнозирование оттока клиентов банка](https://github.com/EKozh/Clients_Bank_ML)| Построение модели для прогноза оттока клиентов в ближайшее время |Matplotlib, Pandas, Sklearn |Завершен|
+| [Прогнозирование прибыли от нефтяных скважин](https://github.com/EKozh/Oil_well_location)|Построение модели для определения региона, где добыча принесет наибольшую прибыль| Pandas, Sklearn, Bootstrap |Завершен|
+| [Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/EKozh/Gold_predict) | Построение модели, которая предсказывает коэффициент восстановления золота из золотосодержащей руды по необходимым параметрам.|Pandas, GridSearchCV, Matplotlib, NumPy, Python, Sklearn| Завершен|
+| [Прогнозирование количества заказов такси на следующий час](https://github.com/EKozh/Taxi_prediction) | Построение модели для предсказания количества заказов такси на следующий час (работа с временными рядами) | Pandas, Python, Sklearn, statsmodels |Завершен|
+| [Определение стоимости автомобиля](https://github.com/EKozh/Auto_price_prediction) | Построение модели, которая предсказывает стоимость автомобилей | Pandas, Python, LightGBM |Завершен|
+| [Защита персональных данных клиентов страховой компании](https://github.com/EKozh/Personal_data_protect)| Разработка метода преобразования данных, по которому тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии| NumPy, Python, Sklearn |Завершен|
+
+<p align="center"> Проекты Data Analyst  </p align="center">
+
+| **Проект** | **Тип исследования** | **Стек** |**Статус** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [Выявление закономерностей, определяющих коммерческую успешность игры](https://github.com/EKozh/Games_EDA_) | Исследовательский анализ данных. Выявление закономерностей, определяющих успешность игры закономерности | Pandas, Math, NumPy, Matplotlib, SciPy, Seaborn |Завершен|
+| [Исследование объявлений о продаже квартир](https://github.com/EKozh/Real_cost_EDA) | Исследовательский анализ данных. Определение параметров, оказывающих наибольшее влияние на оценку стоимости недвижимости| Python, Pandas, Matplotlib |Завершен|
+| [Определение перспективного тарифа для телеком-компании](https://github.com/EKozh/stat_analis) | Статистический анализ данных. Анализ активности клиентов в разрезе тарифов и определение более перспективного тарифа для маркетинговой кампании | Python, Pandas, Matplotlib, NumPy, SciPy |Завершен|
+
+<p align="center"> Проекты Kaggle  </p align="center">
+| **Проект** | **Тип исследования** | **Стек** |**Статус** |
+| [Предсказание выживших на Титанике]() | Задача классификации и оптимизации. Построение модели, предсказывающей выживших на титанике | |Завершен|
+
+
 
 
