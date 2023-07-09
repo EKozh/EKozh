@@ -7,12 +7,11 @@
 
 Я начинающий data scientist. Здесь я представила мои некоторые проекты.
 
-Основной опыт у меня - учебные проекты по специальности data science и проекты с платформы Kagle, а также решаю задачи на LeetCode.
-
 
 - :seedling: Завершила курсы по Data Science Яндекс Практикум
 
-- :telescope: 
+- :telescope: Основной опыт - учебные проекты по специальности data science и проекты с платформы Kagle
+- :telescope:  Pешаю задачи на LeetCode
 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
@@ -86,6 +85,7 @@ ________________________________________________________________________________
 
 
 <p align="center"> Проекты Kaggle  </p align="center">
+
 | **Проект** | **Тип исследования** | **Стек** |**Статус** |
 | -------------------- | :--------------------- |:---------------------------:|:---------------------------:|
 | [Предсказание выживших на Титанике]() | Задача классификации и оптимизации. Построение модели, предсказывающей выживших на титанике |Python, Pandas |Завершен|
