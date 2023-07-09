@@ -7,7 +7,15 @@
 
 Я начинающий data scientist. Здесь я представила мои некоторые проекты.
 
-Основной опыт у меня - учебные проекты по специальности data science и проекты с платформы Kagle. 
+Основной опыт у меня - учебные проекты по специальности data science и проекты с платформы Kagle, а также решаю задачи на LeetCode.
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :seedling: Завершила курсы по Data Science Яндекс Практикум
+
+- :telescope: 
 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
@@ -52,6 +60,8 @@ ________________________________________________________________________________
 | [Определение стоимости автомобиля](https://github.com/EKozh/Auto_price_prediction) | Построение модели, которая предсказывает стоимость автомобилей | Pandas, Python, LightGBM |Завершен|
 | [Защита персональных данных клиентов страховой компании](https://github.com/EKozh/Personal_data_protect)| Разработка метода преобразования данных, по которому тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии| NumPy, Python, Sklearn |Завершен|
 
+
+
 <p align="center"> Проекты Data Analyst  </p align="center">
 
 | **Проект** | **Тип исследования** | **Стек** |**Статус** |
@@ -59,6 +69,8 @@ ________________________________________________________________________________
 | [Выявление закономерностей, определяющих коммерческую успешность игры](https://github.com/EKozh/Games_EDA_) | Исследовательский анализ данных. Выявление закономерностей, определяющих успешность игры закономерности | Pandas, Math, NumPy, Matplotlib, SciPy, Seaborn |Завершен|
 | [Исследование объявлений о продаже квартир](https://github.com/EKozh/Real_cost_EDA) | Исследовательский анализ данных. Определение параметров, оказывающих наибольшее влияние на оценку стоимости недвижимости| Python, Pandas, Matplotlib |Завершен|
 | [Определение перспективного тарифа для телеком-компании](https://github.com/EKozh/stat_analis) | Статистический анализ данных. Анализ активности клиентов в разрезе тарифов и определение более перспективного тарифа для маркетинговой кампании | Python, Pandas, Matplotlib, NumPy, SciPy |Завершен|
+
+
 
 <p align="center"> Проекты Kaggle  </p align="center">
 | **Проект** | **Тип исследования** | **Стек** |**Статус** |
