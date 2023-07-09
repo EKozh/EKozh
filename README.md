@@ -9,13 +9,6 @@
 
 Основной опыт у меня - учебные проекты по специальности data science и проекты с платформы Kagle, а также решаю задачи на LeetCode.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :seedling: Завершила курсы по Data Science Яндекс Практикум
 
@@ -45,7 +38,7 @@ ________________________________________________________________________________
 --- -->
 
 __________________________________________________________________________________________________________________________
-
+### 🛠 Стек
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
