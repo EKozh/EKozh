@@ -10,6 +10,10 @@
 Основной опыт у меня - учебные проекты по специальности data science и проекты с платформы Kagle. 
 
 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
+
+
+
 __________________________________________________________________________________________________________________________
 
 
