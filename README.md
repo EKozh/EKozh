@@ -15,6 +15,7 @@
 - :telescope: Основной опыт - учебные проекты по специальности data science и проекты с платформы Kagle;
 - :zap:   Pешаю задачи на LeetCode.
 
+<p align="center"> <a href="https://github.com/EKozh/certificates"> Сертификаты о прохождении курсов</a></p>
 
 - :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
 
