@@ -1,7 +1,7 @@
 
 # Привет, меня зовут Елена!
 
-<p align="center"><img src='https://assets.spartangeek.com/cc/pc-ciencia-datos.jpeg'width="48"></p>
+<p align="center"><img src='https://assets.spartangeek.com/cc/pc-ciencia-datos.jpeg'width="148"></p>
 
 
 
