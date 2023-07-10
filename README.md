@@ -10,10 +10,10 @@
 - :seedling: Завершила курсы по Data Science Яндекс Практикум
 
 - :telescope: Основной опыт - учебные проекты по специальности data science и проекты с платформы Kagle
-- :telescope:  Pешаю задачи на LeetCode
+- :zap:   Pешаю задачи на LeetCode
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
+- :mailbox: Какс о мной связаться: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
 
 
 
@@ -33,8 +33,8 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/scikit--learn-%23150458.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-%2300f.svg?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
-
-  
+</p>
+<p align="center">  
   <img src="https://img.shields.io/badge/TensorFlow-%23F7931E.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-%23FF6F00.svg?style=for-the-badge&logo=Tableau&logoColor=white" />
    <img src="https://img.shields.io/badge/PyTorch-E97627?style=for-the-badge&logo=PyTorch&logoColor=white" />
