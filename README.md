@@ -2,6 +2,7 @@
 # Привет, меня зовут Елена!
 
 <p align="center"><img src='https://assets.spartangeek.com/cc/pc-ciencia-datos.jpeg'></p>
+<img src="https://github.com/favicon.ico" width="48">
 
 
 
