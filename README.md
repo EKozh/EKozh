@@ -1,7 +1,8 @@
 
 # Привет, меня зовут Елена!
 
-<p align="center"><img src='[http://i.ibb.co/SyYP943/enterprise-data-science-1.png](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fqtxasset.com%2Fquartz%2Fqcloud5%2Fmedia%2Fimage%2Ffiercehealthcare%2F1554737160%2FGettyImages-932559358.jpg%2FGettyImages-932559358](https://assets.spartangeek.com/cc/pc-ciencia-datos.jpeg).jpg'></p>
+<p align="center"><img src='https://assets.spartangeek.com/cc/pc-ciencia-datos.jpeg'></p>
+
 
 
 ### :man_technologist: Обо мне:
