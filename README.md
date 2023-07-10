@@ -1,10 +1,12 @@
 
 # Привет, меня зовут Елена!
 
-<p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
+<p align="center"><img src='[http://i.ibb.co/SyYP943/enterprise-data-science-1.png](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fqtxasset.com%2Fquartz%2Fqcloud5%2Fmedia%2Fimage%2Ffiercehealthcare%2F1554737160%2FGettyImages-932559358.jpg%2FGettyImages-932559358.jpg%3FVersionId%3DO3yCVyHLx9brXJBxbRVHJc2JImaZL4Bb&lr=213&p=5&pos=29&rpt=simage&text=data%20science)'></p>
+
+
 ### :man_technologist: Обо мне:
 
-Я начинающий data scientist. Здесь я представила мои некоторые проекты.
+Я начинающий data scientist. Здесь я представила мои проекты.
 
 
 - :seedling: Завершила курсы по Data Science от Яндекс Практикум;
