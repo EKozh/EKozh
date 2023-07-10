@@ -1,7 +1,7 @@
 
 # Привет, меня зовут Елена!
 
-<p align="center"><img src='[http://i.ibb.co/SyYP943/enterprise-data-science-1.png](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fqtxasset.com%2Fquartz%2Fqcloud5%2Fmedia%2Fimage%2Ffiercehealthcare%2F1554737160%2FGettyImages-932559358.jpg%2FGettyImages-932559358.jpg%3FVersionId%3DO3yCVyHLx9brXJBxbRVHJc2JImaZL4Bb&lr=213&p=5&pos=29&rpt=simage&text=data%20science)'></p>
+<p align="center"><img src='[http://i.ibb.co/SyYP943/enterprise-data-science-1.png](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fqtxasset.com%2Fquartz%2Fqcloud5%2Fmedia%2Fimage%2Ffiercehealthcare%2F1554737160%2FGettyImages-932559358.jpg%2FGettyImages-932559358.jpg'></p>
 
 
 ### :man_technologist: Обо мне:
@@ -15,7 +15,7 @@
 - :zap:   Pешаю задачи на LeetCode.
 
 
-- :mailbox: Какс о мной связаться: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-ekozhemyakina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Akozhemyakina) [![mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=mail&logoColor=white)](mailto:a.kozhemyakina9208@mail.ru)
 
 
 
