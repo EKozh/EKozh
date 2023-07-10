@@ -1,7 +1,7 @@
 
 # Привет, меня зовут Елена!
 
-
+<p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
 ### :man_technologist: Обо мне:
 
 Я начинающий data scientist. Здесь я представила мои некоторые проекты.
